@@ -12,7 +12,7 @@ The purpose of this project is to analyze and visualize weather data to plan vac
 
 <p align="center">
   <img width="900" alt="Vacation_Itinerary" src="https://github.com/skgolden13/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG"><br/>
-  Figure 2: Vacation route planned using <a href="https://github.com/skgolden13/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb">Vacation Itinerary</a> script.<br/>
+  Figure 2: Vacation route planned using <a href="https://github.com/skgolden13/World_Weather_Analysis/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb">Vacation Itinerary</a> script. The route starts and ends in Lima, Peru.<br/>
 </p>
 
 <p align="center">
