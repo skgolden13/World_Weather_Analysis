@@ -4,6 +4,8 @@
 
 The purpose of this project is to analyze and visualize weather data to plan vacations. Weather data was retrieved from [Open Weather Map.](https://openweathermap.org/) Maps and routes were planned using the Google Maps API and analysis was performed using the Jupyter Notebook. Sample images of the outputs for this script can be found in the [vacation search](https://github.com/skgolden13/World_Weather_Analysis/tree/main/Vacation_Search) and [vacation itinerary](https://github.com/skgolden13/World_Weather_Analysis/tree/main/Vacation_Itinerary) folders and below.
 
+The user will need their own API key through Open Weather Map and Google Maps to be able to run this script.
+
 ## Sample Images
 <p align="center">
   <img width="900" alt="Vacation_Map" src="https://github.com/skgolden13/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG"><br/>
